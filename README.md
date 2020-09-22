@@ -1,2 +1,2 @@
-# SimTwo
-SimTwo Project
+# SimTwo Autonomous Robot Project 
+SimTwo Project (Pascal Language)
