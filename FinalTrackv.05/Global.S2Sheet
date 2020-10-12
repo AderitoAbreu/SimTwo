@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<sheet>
+  <columns>
+    <defaultcol width="50" />
+    <col num="1" width="91" />
+    <col num="2" width="60" />
+    <col num="3" width="70" />
+    <col num="4" width="79" />
+    <col num="5" width="73" />
+    <col num="7" width="94" />
+    <col num="8" width="94" />
+    <col num="9" width="112" />
+    <col num="10" width="87" />
+    <col num="13" width="74" />
+  </columns>
+  <cells>
+    <cell r="7" c="1" text="[Robot GoTo]" />
+    <cell r="6" c="3" text="y" />
+    <cell r="6" c="2" text="x" />
+    <cell r="7" c="2" text="8.5" />
+    <cell r="7" c="3" text="-9.5" />
+    <cell r="2" c="3" text="10.8" />
+    <cell r="2" c="2" text="0.189" />
+    <cell r="3" c="2" text="4.69" />
+    <cell r="2" c="1" text="steer(rad/w):" />
+    <cell r="3" c="1" text="vref:" />
+    <cell r="9" c="1" text="[k3]" />
+    <cell r="10" c="1" text="[k4]" />
+    <cell r="11" c="1" text="[k5]" />
+    <cell r="9" c="2" text="0.1" />
+    <cell r="10" c="2" text="0.05" />
+    <cell r="11" c="2" text="0.04" />
+    <cell r="4" c="1" text="[v]" />
+    <cell r="4" c="2" text="5" />
+    <cell r="11" c="3" text="LD" />
+    <cell r="10" c="3" text="LD" />
+    <cell r="9" c="3" text="LD" />
+    <cell r="7" c="7" text="[GO]" backcolor="$00FF00" font="" fsize="10" />
+    <cell r="7" c="8" text="[STOP]" />
+    <cell r="9" c="4" text="tpoint3:" />
+    <cell r="10" c="4" text="tpoint4:" />
+    <cell r="11" c="4" text="tpoint5:" />
+    <cell r="9" c="5" text="185" />
+    <cell r="10" c="5" text="260" />
+    <cell r="11" c="5" text="233" />
+    <cell r="2" c="5" text="RedStopLine" />
+    <cell r="15" c="1" text="-1" backcolor="$C0C0C0" />
+    <cell r="15" c="2" text="-1" backcolor="$C0C0C0" />
+    <cell r="15" c="3" text="-1" backcolor="$C0C0C0" />
+    <cell r="15" c="4" text="-1" backcolor="$C0C0C0" />
+    <cell r="15" c="5" text="-1" backcolor="$C0C0C0" />
+    <cell r="15" c="6" text="-1" backcolor="$C0C0C0" />
+    <cell r="15" c="7" text="-1" backcolor="$C0C0C0" />
+    <cell r="15" c="8" text="-1" backcolor="$C0C0C0" />
+    <cell r="15" c="9" text="-1" backcolor="$C0C0C0" />
+    <cell r="15" c="10" text="-1" backcolor="$C0C0C0" />
+    <cell r="6" c="4" text="angular(rad)" />
+    <cell r="7" c="4" text="90" />
+    <cell r="8" c="1" text="[RobotGoToIP]" />
+    <cell r="8" c="3" text="-0.5" />
+    <cell r="8" c="2" text="4.10" />
+    <cell r="8" c="4" text="90" />
+    <cell r="2" c="6" text="6" />
+    <cell r="3" c="5" text="GO" />
+    <cell r="3" c="6" text="[CAN GO]" />
+    <cell r="3" c="7" text="[TURN LEFT]" />
+    <cell r="3" c="8" text="[GO STRAIGHT]" />
+    <cell r="3" c="9" text="[TURN RIGHT]" />
+    <cell r="9" c="7" text="RobotX:" />
+    <cell r="10" c="7" text="RobotY:" />
+    <cell r="9" c="8" text="0.807" />
+    <cell r="10" c="8" text="-3.45" />
+    <cell r="11" c="7" text="RotbotTheta:" />
+    <cell r="11" c="8" text="-13.2" />
+    <cell r="2" c="4" text="State:" />
+    <cell r="14" c="1" text="Lasers:" />
+    <cell r="17" c="1" text="RlineStop" backcolor="$4242FF" />
+    <cell r="17" c="2" text="GlineStop" backcolor="$6AFF6A" />
+    <cell r="17" c="3" text="BlineStop" backcolor="$FF6F6F" />
+    <cell r="18" c="1" text="54" />
+    <cell r="18" c="2" text="54" />
+    <cell r="18" c="3" text="255" />
+    <cell r="19" c="1" text="54" />
+    <cell r="19" c="2" text="54" />
+    <cell r="19" c="3" text="255" />
+    <cell r="20" c="1" text="54" />
+    <cell r="20" c="2" text="54" />
+    <cell r="20" c="3" text="255" />
+    <cell r="21" c="1" text="54" />
+    <cell r="21" c="2" text="54" />
+    <cell r="21" c="3" text="255" />
+    <cell r="22" c="1" text="54" />
+    <cell r="22" c="2" text="54" />
+    <cell r="22" c="3" text="255" />
+    <cell r="23" c="1" text="54" />
+    <cell r="23" c="2" text="54" />
+    <cell r="23" c="3" text="255" />
+    <cell r="24" c="1" text="54" />
+    <cell r="24" c="2" text="54" />
+    <cell r="24" c="3" text="255" />
+    <cell r="25" c="1" text="54" />
+    <cell r="25" c="2" text="54" />
+    <cell r="25" c="3" text="255" />
+    <cell r="26" c="1" text="255" />
+    <cell r="26" c="2" text="255" />
+    <cell r="26" c="3" text="255" />
+    <cell r="7" c="10" text="[TESTPOINT1]" />
+    <cell r="6" c="11" text="x" />
+    <cell r="6" c="12" text="y" />
+    <cell r="6" c="13" text="angular(rad)" />
+    <cell r="7" c="13" text="-180" />
+    <cell r="7" c="12" text="6.40" />
+    <cell r="7" c="11" text="-1" />
+    <cell r="8" c="10" text="[TESTPOINT2]" />
+    <cell r="9" c="10" text="[TESTPOINT3]" />
+    <cell r="8" c="11" text="-4.41" />
+    <cell r="8" c="12" text="2" />
+    <cell r="8" c="13" text="-91.6" />
+    <cell r="9" c="11" text="1.20" />
+    <cell r="9" c="12" text="0.5" />
+    <cell r="9" c="13" text="-180" />
+    <cell r="12" c="8" text="0.807" />
+    <cell r="13" c="8" text="-3.45" />
+    <cell r="14" c="8" text="-13.2" />
+    <cell r="12" c="7" text="StopRobotX:" />
+    <cell r="13" c="7" text="StopRobotY:" />
+    <cell r="14" c="7" text="StopRotbotTheta:" />
+    <cell r="12" c="10" text="0.193" />
+    <cell r="13" c="10" text="1.51" />
+    <cell r="12" c="9" text="RobotX-StopRobotX:" />
+    <cell r="13" c="9" text="RobotY-StopRobotY:" />
+    <cell r="17" c="5" text="StopWarning" backcolor="$FFFFFF" />
+    <cell r="19" c="5" text="AllSafe" />
+    <cell r="17" c="7" text="Traffic Lights" />
+    <cell r="18" c="7" text="[STOP-RED]" backcolor="$008000" />
+    <cell r="18" c="8" text="[GO-GREEN]" backcolor="$008000" />
+    <cell r="6" c="7" text="Start Simulation" />
+    <cell r="18" c="5" text="Warning!" />
+  </cells>
+</sheet>
