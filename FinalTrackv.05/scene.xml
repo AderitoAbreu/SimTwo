@@ -1,0 +1,18 @@
+<?Final_Track_V5 project to Dissertation presented to the School of Technology and Management of Bragança to
+obtain the Master Degree in Industrial Engineering-AdéritoAbreu-30968-31/10/2020?>
+<scene>
+
+  <robot>    <?Robot definition?>
+    <ID name='Classic'/>
+    <pos x='4.3875' y='1' z='0'/>
+    <rot_deg z='90'/>
+    <body file='Differential2.xml'/>
+  </robot>
+
+  <things file='things.xml'/>
+
+  <obstacles file='obstacles.xml'/>
+
+  <track file='track.xml'/>
+
+</scene>
